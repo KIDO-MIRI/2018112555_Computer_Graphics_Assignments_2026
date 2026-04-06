@@ -1,2 +1,3 @@
 # 2018112555_Computer_Graphics_Assignments_2026
-2018112555_Computer_Graphics_Assignments_2026
+2018112555
+Ryu Sung Sik
